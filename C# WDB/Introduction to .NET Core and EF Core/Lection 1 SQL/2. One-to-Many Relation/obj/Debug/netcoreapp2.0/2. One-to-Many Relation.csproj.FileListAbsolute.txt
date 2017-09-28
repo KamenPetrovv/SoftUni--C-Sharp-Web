@@ -1,0 +1,11 @@
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\bin\Debug\netcoreapp2.0\2. One-to-Many Relation.deps.json
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\bin\Debug\netcoreapp2.0\2. One-to-Many Relation.runtimeconfig.json
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\bin\Debug\netcoreapp2.0\2. One-to-Many Relation.runtimeconfig.dev.json
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\bin\Debug\netcoreapp2.0\2. One-to-Many Relation.dll
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\bin\Debug\netcoreapp2.0\2. One-to-Many Relation.pdb
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\obj\Debug\netcoreapp2.0\2. One-to-Many Relation.csprojResolveAssemblyReference.cache
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\obj\Debug\netcoreapp2.0\2. One-to-Many Relation.csproj.CoreCompileInputs.cache
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\obj\Debug\netcoreapp2.0\2. One-to-Many Relation.AssemblyInfoInputs.cache
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\obj\Debug\netcoreapp2.0\2. One-to-Many Relation.AssemblyInfo.cs
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\obj\Debug\netcoreapp2.0\2. One-to-Many Relation.dll
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1 SQL\2. One-to-Many Relation\obj\Debug\netcoreapp2.0\2. One-to-Many Relation.pdb

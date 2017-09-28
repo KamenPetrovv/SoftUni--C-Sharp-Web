@@ -1,0 +1,11 @@
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\bin\Debug\netcoreapp2.0\Student System.deps.json
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\bin\Debug\netcoreapp2.0\Student System.runtimeconfig.json
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\bin\Debug\netcoreapp2.0\Student System.runtimeconfig.dev.json
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\bin\Debug\netcoreapp2.0\Student System.dll
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\obj\Debug\netcoreapp2.0\Student System.csprojResolveAssemblyReference.cache
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\obj\Debug\netcoreapp2.0\Student System.csproj.CoreCompileInputs.cache
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\obj\Debug\netcoreapp2.0\Student System.AssemblyInfoInputs.cache
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\obj\Debug\netcoreapp2.0\Student System.AssemblyInfo.cs
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\bin\Debug\netcoreapp2.0\Student System.pdb
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\obj\Debug\netcoreapp2.0\Student System.dll
+E:\Programming\Software University\C# Web\C# WDB\Introduction to .NET Core and EF Core\2. Introduction to .NET Core - Exercise\Student System\obj\Debug\netcoreapp2.0\Student System.pdb

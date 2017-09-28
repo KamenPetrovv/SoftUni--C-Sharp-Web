@@ -1,0 +1,9 @@
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.deps.json
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.runtimeconfig.json
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.runtimeconfig.dev.json
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.dll
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.pdb
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.csprojResolveAssemblyReference.cache
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.AssemblyInfo.cs
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.dll
+E:\Programming\Software University\C# Web\C# Web Developement Basics\Introduction to .NET Core and EF Core\Lection 1\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.pdb
